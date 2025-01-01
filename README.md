@@ -4,7 +4,7 @@
 Texto gerado por IA
 
 ## 🤖 Tecnologias Utilizadas
-chat igpt
+ChatGPT
 
 ## 🧐 Processo de Criação
 solicitei texto curto sobre o futuro do mercado financeiro
